@@ -2,9 +2,18 @@
 ### Привет, object  
 ![image](https://user-images.githubusercontent.com/113675674/211194486-dc961027-a717-4d74-8e1a-f9e62db2176a.png)  
 
-## Задача 2    
+## Задача 1.1.    
+### Создание объекта с помощью конструктора Object()  
+![image](https://user-images.githubusercontent.com/113675674/212024628-2e091e6a-ca0b-4c5f-87e4-3964c4665b43.png)  
+
+## Задача 2.1      
 ###  объект "человек"  
 ![image](https://user-images.githubusercontent.com/113675674/211194751-eef7b063-4012-4978-831d-817731f16452.png)  
+
+## Задача 2.2    
+###  Добавление свойств и методов с помощью оператора "."   
+![image](https://user-images.githubusercontent.com/113675674/212027127-a8c7cd1c-fefb-4d8c-b7ed-14d552cfab3b.png)  
+
 
 ## Задача 3    
 ### Объекты-константы?  
@@ -34,5 +43,7 @@
 
 ## Задача 8      
 ### Перебор свойств объекта с фильтрацией   
-![image](https://user-images.githubusercontent.com/113675674/211500110-b250e5c9-e15a-4d1b-9d95-dd3b65451419.png)
+![image](https://user-images.githubusercontent.com/113675674/211500110-b250e5c9-e15a-4d1b-9d95-dd3b65451419.png)  
+
+
 
