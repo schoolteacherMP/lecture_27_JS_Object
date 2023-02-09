@@ -36,9 +36,10 @@
 ### Перебор свойств объекта с фильтрацией   
 ![image](https://user-images.githubusercontent.com/113675674/211500110-b250e5c9-e15a-4d1b-9d95-dd3b65451419.png)  
 
-`const person = {  
-  name: "John",  
-  age: 32,  
-  job: "developer"  
-};`  
+## Задача 9        
+###  Информация о человеке  
+![image](https://user-images.githubusercontent.com/113675674/217863335-30d0802f-024c-4cd9-a7f9-0539633d5e42.png)  
+![image](https://user-images.githubusercontent.com/113675674/217863395-fe9ee3e1-c7f8-4777-8c3a-c2fe809f87d1.png)  
+
+
 
