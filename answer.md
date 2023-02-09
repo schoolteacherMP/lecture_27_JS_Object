@@ -36,5 +36,9 @@
 ### Перебор свойств объекта с фильтрацией   
 ![image](https://user-images.githubusercontent.com/113675674/211500110-b250e5c9-e15a-4d1b-9d95-dd3b65451419.png)  
 
-
+`const person = {  
+  name: "John",  
+  age: 32,  
+  job: "developer"  
+};`  
 
